@@ -20,7 +20,7 @@ Users can :
 
 ### Links
 
-- Live Site URL: [Live Site URl](https://your-live-site-url.com)
+- Live Site URL: [Live Site URl](https://tolux-hng-stage-one-task.netlify.app)
 
 ## My process
 
