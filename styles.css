@@ -110,6 +110,11 @@ body {
     text-align: center;
     width: 100%;
 }
+.section__link:hover,
+.section__link:after {
+    cursor: pointer;
+    background-color: var(--darkBrown);
+}
 .section__anchor {
     color: var(--transparentWhite);
     font-family: 'Montserrat', sans-serif;
