@@ -88,7 +88,7 @@ body {
 }
 .section__information__text {
     font-family: 'Red Hat Display', sans-serif;
-    margin: 10px auto;
+    margin: 15px auto;
 }
 .section__information__span {
     color: var(--veryDarkBlue);
@@ -118,7 +118,7 @@ body {
     text-decoration: none;
 }
 .fa-github {
-    margin-right: 5px;
+    margin-right: 0.5em;
 }
 .attribution {
     -webkit-backdrop-filter: blur(5px);
@@ -149,6 +149,9 @@ body {
     .container__two {
         flex: 2 0 100px;
         padding: 2.5em 1em;
+    }
+    .section__link {
+        margin-top: 50px;
     }
 }
 /* Modifiers */
