@@ -81,10 +81,11 @@ body {
 }
 .section__title {
     color: var(--darkBrown);
+    font-size: 1.5em;
     font-family: 'Fraunces', 'sans-serif';
     margin: 0.5em 0 0.8em 0;
     text-transform: uppercase;
-    word-spacing: -3px;
+    word-spacing: 3px;
 }
 .section__information__text {
     font-family: 'Red Hat Display', sans-serif;
